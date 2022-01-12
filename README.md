@@ -2,7 +2,7 @@
 
 *Using the metaphor of a sketch, p5.js has a full set of drawing functionality*
 
-![](https://i.imgur.com/qavWzSE.png)
+![](https://i.imgur.com/YpCHSs8.png)
 
 > &copy; [Julien Noyer](https://www.linkedin.com/in/julien-n-21219b28/) - All rights reserved for educational purposes only
 
